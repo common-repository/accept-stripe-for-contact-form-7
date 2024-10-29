@@ -1,0 +1,5 @@
+= 1.1.0 - 2024-10-06 =
+feat: add stripe link for checkout redirection.
+
+= 1.0.0 - 2024-09-30 =
+First Release
